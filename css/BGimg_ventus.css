@@ -1,5 +1,15 @@
 body {
-  background-image:url("../src/ventus.png");
-  background-size: cover;
+  position: relative;
+  background-image: url("../src/ventus2.png");
+  background-size: 100% 200%;
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+body {
+  position: relative;
+  /* もう一段後ろの背景設定 */
+  background-color: blue; /* または別の背景色や背景画像 */
+  /* その他のスタイル設定 */
 }
